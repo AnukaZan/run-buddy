@@ -12,3 +12,5 @@ https://anukazan.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Anuka
+
+### ©️2019 Run Buddy, Inc 
